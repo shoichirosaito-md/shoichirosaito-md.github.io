@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <figure style="float: right; width: 340px; max-width: 45%; margin: 0.2em 0 1em 1.5em;">
   <img src="/images/lung-fibrosis-trichrome.jpg" alt="Masson trichrome staining of fibrotic lung" style="width: 100%; border-radius: 6px;">
   <figcaption style="font-size: 0.8em; color: #666; text-align: center; margin-top: 0.4em;">
